@@ -1,7 +1,9 @@
 streamlit
 pandas
+simpy
 matplotlib
 seaborn
 statsmodels
 plotly
+
 openpyxl
